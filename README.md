@@ -1,4 +1,4 @@
 # login-form-with-database-connection
-learning tutorial how to implement in your projects.
+learning tutorial that how to implement in your projects.
 
 https://www.youtube.com/@francis_tech
